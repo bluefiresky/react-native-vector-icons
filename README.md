@@ -1,3 +1,6 @@
+
+# Fork the Project to fix it can be compile in React-Native-0.40.0
+
 ![Vector Icons for React Native](https://cloud.githubusercontent.com/assets/378279/12009887/33f4ae1c-ac8d-11e5-8666-7a87458753ee.png)
 
 Perfect for buttons, logos and nav/tab bars. Easy to extend, style and integrate into your project. 

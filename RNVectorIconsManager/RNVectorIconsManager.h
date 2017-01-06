@@ -7,7 +7,8 @@
 //
 
 #import "RCTBridgeModule.h"
-#import "RCTLog.h"
+// #import "RCTLog.h"
+#import <React/RCTLog.h>
 
 @interface RNVectorIconsManager : NSObject <RCTBridgeModule>
 
